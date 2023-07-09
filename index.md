@@ -2,7 +2,12 @@
 
 strai.ferringson@gmail.com
 
-Python Code
-```python
-print("Hello")
-```
+links
+
+udemy
+streamlit
+github
+pysimplegui
+reddit
+
+<br>[]()
