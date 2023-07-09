@@ -1,5 +1,3 @@
-# straipii
-
 strai.ferringson@gmail.com
 
 links
