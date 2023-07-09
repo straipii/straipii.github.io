@@ -1,1 +1,0 @@
-# straipii.github.io
