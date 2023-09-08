@@ -3,7 +3,22 @@
   border: 5px 5px;
 }
 
-.links-item {
+.links-item:link {
   color: blue;
+  border: 5px 5px;
+}
+
+.links-item:visited {
+  color: blue;
+  border: 5px 5px;
+}
+
+.links-item:hover {
+  color: red;
+  border: 5px 5px;
+}
+
+.links-item:active {
+  color: green;
   border: 5px 5px;
 }
