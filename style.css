@@ -5,6 +5,7 @@
 
 body {
 	font-family: sans-serif;
+	background-color: black;
 }
 
 .main-header {
@@ -33,7 +34,7 @@ body {
 }
 
 .main-header a:visited {
-	background-color: #8fbae8;
+	background-color: #2a84e5;
 	display: block;
 	padding: 10px;
 	text-align: center;
@@ -53,3 +54,15 @@ body {
 	text-transform: uppercase;
 	font-weight: bold;
 }
+
+.main-header a:active {
+	background-color: #8fbae8;
+	display: block;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
